@@ -1,5 +1,5 @@
 package zemoso;
-
+//violating single responsibility and dependency inversion
 public class StudentDetails{
 	String name;
 	int rollno;
